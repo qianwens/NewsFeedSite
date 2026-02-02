@@ -1,5 +1,5 @@
 ---
-name: Migrate from RabbitMQ to Azure Service Bus
+name: rabbitmq-to-azureservicebus
 description: Migrate from RabbitMQ with AMQP to Azure Service Bus for messaging.
 ---
 
